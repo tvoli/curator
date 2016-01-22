@@ -1,3 +1,13 @@
+
+#CURATOR 2.9.1 for Magine environment
+
+* guava bumped to 19.0
+* slf4j bumped to 1.7.12
+* zookeeper bumped to 3.4.7
+
+-----------------------------------------------------------------
+
+
 Apache Curator
 --------------
 Curator is a set of Java libraries that make using Apache ZooKeeper much easier.
